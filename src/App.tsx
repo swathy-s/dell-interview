@@ -5,7 +5,7 @@ const App: React.FC = () => {
 
   return (
     <div>
-      React Router+ Typescript Boilerplate
+      React + React Router + Typescript Boilerplate
     </div>
   );
 };
